@@ -8,3 +8,5 @@ The plane can then be piloted using :
  - Left and right directionnal arrows to change the direction
  - A and Q to change the speed
  - Up and Down directionnal arrows to change the height
+ 
+To do : deploy it on a server so many students can work together
